@@ -6,8 +6,8 @@ Mettre la dimension à 200, 200
 Configurer la fenetre sur ‘exitOnClose’
 // Création du label de texte
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD
-Créer la couleur bleu
-Mettre la couleur bleu sur le  label
+Créer la couleur rouge
+Mettre la couleur rouge sur le  label
 Couleur de fond vert
 Mettre la couleur de fond en vert
 >>>>>>> d59212c (C6 : couleur de fond en vert (fix_XXX))
